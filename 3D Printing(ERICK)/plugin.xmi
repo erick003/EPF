@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_h31nwKgxEe2m09Qfg1BwGA" guid="_h31nwKgxEe2m09Qfg1BwGA">
+    <subManagers xmi:id="_INld0Kg2Ee2m09Qfg1BwGA" href="uma://_IMB-oKg2Ee2m09Qfg1BwGA#_INld0Kg2Ee2m09Qfg1BwGA"/>
+    <subManagers xmi:id="_WC7dAag2Ee2m09Qfg1BwGA" href="uma://_WBeEcKg2Ee2m09Qfg1BwGA#_WC7dAag2Ee2m09Qfg1BwGA"/>
+    <resourceDescriptors xmi:id="_g8L7AKg1Ee2m09Qfg1BwGA" id="-qCkTiOZKf4Tgk6eEz4RwOA" uri="roles/checker.xmi"/>
+    <resourceDescriptors xmi:id="_g8L7Aag1Ee2m09Qfg1BwGA" id="-0EhYnteiaiHzllxVqaGSnQ" uri="roles/cliente.xmi"/>
+    <resourceDescriptors xmi:id="_g8VsAKg1Ee2m09Qfg1BwGA" id="-j9kD9nyeFT41nOaeg9wb7Q" uri="roles/intermediator.xmi"/>
+    <resourceDescriptors xmi:id="_g8ZWYKg1Ee2m09Qfg1BwGA" id="-5QtXdXwHFBpIgHdB8PXZfQ" uri="tasks/checar_material_disponvel.xmi"/>
+    <resourceDescriptors xmi:id="_g8jHYKg1Ee2m09Qfg1BwGA" id="-j4au7IcyLN56CJFtg0xrhg" uri="tasks/checar_solicitacoes_existentes.xmi"/>
+    <resourceDescriptors xmi:id="_g8jHYag1Ee2m09Qfg1BwGA" id="-Lc-MDix7iUaxvlfOmkemQA" uri="tasks/descrever_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_g8s4YKg1Ee2m09Qfg1BwGA" id="-xXZRMDk2s3bfhrBXYH6sTw" uri="tasks/imprimir_objeto.xmi"/>
+    <resourceDescriptors xmi:id="_g82CUKg1Ee2m09Qfg1BwGA" id="-oH-inWmBu13X5yg1zDpO8Q" uri="tasks/modelar_objeto.xmi"/>
+    <resourceDescriptors xmi:id="_g82CUag1Ee2m09Qfg1BwGA" id="-tUpTiSDMDvV9sJdZKKFtQA" uri="tasks/monitorar_impressao.xmi"/>
+    <resourceDescriptors xmi:id="_g82CUqg1Ee2m09Qfg1BwGA" id="-RD0-0gPx0bzqEWtimNqsjQ" uri="tasks/realizar_reuniao_backlog_do_produto.xmi"/>
+    <resourceDescriptors xmi:id="_g8_zUKg1Ee2m09Qfg1BwGA" id="--s27nphqYtGGg7H9vahQQg" uri="tasks/realizar_reuniao_para_revisar_produto_final.xmi"/>
+    <resourceDescriptors xmi:id="_INSi4ag2Ee2m09Qfg1BwGA" id="-gMd9OYuGHW2EBG9k5EbJMg" uri="disciplines/modelagem.xmi"/>
+    <resourceDescriptors xmi:id="_INcT4Kg2Ee2m09Qfg1BwGA" id="_IMB-oKg2Ee2m09Qfg1BwGA" uri="capabilitypatterns/protipagem/model.xmi"/>
+    <resourceDescriptors xmi:id="_WC7dAKg2Ee2m09Qfg1BwGA" id="_WBeEcKg2Ee2m09Qfg1BwGA" uri="capabilitypatterns/analise/model.xmi"/>
+    <resourceDescriptors xmi:id="_0MoUIKg5Ee2m09Qfg1BwGA" id="-kZhYXHbiRJ3q878Xf_sxzA" uri="customcategories/aquisio_do_produto.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_h3BvcKgxEe2m09Qfg1BwGA" name="3D Pinting(ERICK)" guid="_h3BvcKgxEe2m09Qfg1BwGA" briefDescription="Processo de modelagem e impressão 3D.">
+    <methodElementProperty xmi:id="_h31nwqgxEe2m09Qfg1BwGA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BvcagxEe2m09Qfg1BwGA" name="Content" guid="_h3BvcagxEe2m09Qfg1BwGA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BvcqgxEe2m09Qfg1BwGA" name="Categories" guid="_h3BvcqgxEe2m09Qfg1BwGA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3Bvc6gxEe2m09Qfg1BwGA" name="Domains" guid="_h3Bvc6gxEe2m09Qfg1BwGA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BvdKgxEe2m09Qfg1BwGA" name="Disciplines" guid="_h3BvdKgxEe2m09Qfg1BwGA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_GFV0YKg1Ee2m09Qfg1BwGA" name="monitoramento" guid="_GFV0YKg1Ee2m09Qfg1BwGA" presentationName="monitoramento" briefDescription="Tarefas que fazem parte do acompanhamento e início da impressão." tasks="_vm5jUKgyEe2m09Qfg1BwGA _isfs8KgzEe2m09Qfg1BwGA _sYxlAKgzEe2m09Qfg1BwGA">
+            <methodElementProperty xmi:id="_g8CxEKg1Ee2m09Qfg1BwGA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_Nrl0EKg1Ee2m09Qfg1BwGA" name="analise" guid="_Nrl0EKg1Ee2m09Qfg1BwGA" presentationName="analise" briefDescription="Abriga as tarefas que envolvem análise de requisitos e seu backlog" tasks="_Obza8KgzEe2m09Qfg1BwGA _vc6rcKgzEe2m09Qfg1BwGA _VW5k0KgzEe2m09Qfg1BwGA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_WUFT4Kg1Ee2m09Qfg1BwGA" name="modelagem" guid="_WUFT4Kg1Ee2m09Qfg1BwGA" presentationName="modelagem" tasks="_oyNG8KgzEe2m09Qfg1BwGA _1SvPUKgzEe2m09Qfg1BwGA">
+            <presentation xmi:id="-gMd9OYuGHW2EBG9k5EbJMg" href="uma://-gMd9OYuGHW2EBG9k5EbJMg#-gMd9OYuGHW2EBG9k5EbJMg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BvdagxEe2m09Qfg1BwGA" name="RoleSets" guid="_h3BvdagxEe2m09Qfg1BwGA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BvdqgxEe2m09Qfg1BwGA" name="WP Types" guid="_h3BvdqgxEe2m09Qfg1BwGA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3Bvd6gxEe2m09Qfg1BwGA" name="Tools" guid="_h3Bvd6gxEe2m09Qfg1BwGA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BveKgxEe2m09Qfg1BwGA" name="StandardCategories" guid="_h3BveKgxEe2m09Qfg1BwGA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BveagxEe2m09Qfg1BwGA" name="CustomCategories" guid="_h3BveagxEe2m09Qfg1BwGA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BveqgxEe2m09Qfg1BwGA" name="Hidden" guid="_h3BveqgxEe2m09Qfg1BwGA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_h3Bve6gxEe2m09Qfg1BwGA" name="Custom Categories" guid="_h3Bve6gxEe2m09Qfg1BwGA" categorizedElements="_AsMBkKg5Ee2m09Qfg1BwGA"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_AsMBkKg5Ee2m09Qfg1BwGA" name="aquisio_do_produto" guid="_AsMBkKg5Ee2m09Qfg1BwGA" presentationName="Aquisição do produto" categorizedElements="_Xu-nwKg5Ee2m09Qfg1BwGA _kytj0Kg5Ee2m09Qfg1BwGA">
+            <presentation xmi:id="-kZhYXHbiRJ3q878Xf_sxzA" href="uma://-kZhYXHbiRJ3q878Xf_sxzA#-kZhYXHbiRJ3q878Xf_sxzA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Xu-nwKg5Ee2m09Qfg1BwGA" name="atividades" guid="_Xu-nwKg5Ee2m09Qfg1BwGA" presentationName="Atividades" categorizedElements="_Nrl0EKg1Ee2m09Qfg1BwGA _WUFT4Kg1Ee2m09Qfg1BwGA _GFV0YKg1Ee2m09Qfg1BwGA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_kytj0Kg5Ee2m09Qfg1BwGA" name="tarefas" guid="_kytj0Kg5Ee2m09Qfg1BwGA" presentationName="tarefas" categorizedElements="_vm5jUKgyEe2m09Qfg1BwGA _Obza8KgzEe2m09Qfg1BwGA _VW5k0KgzEe2m09Qfg1BwGA _isfs8KgzEe2m09Qfg1BwGA _oyNG8KgzEe2m09Qfg1BwGA _sYxlAKgzEe2m09Qfg1BwGA _vc6rcKgzEe2m09Qfg1BwGA _1SvPUKgzEe2m09Qfg1BwGA"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3BvfKgxEe2m09Qfg1BwGA" name="CoreContent" guid="_h3BvfKgxEe2m09Qfg1BwGA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_j3NegKgxEe2m09Qfg1BwGA" name="3d_pinting" guid="_j3NegKgxEe2m09Qfg1BwGA" presentationName="3D Pinting">
+          <methodElementProperty xmi:id="_j3NegagxEe2m09Qfg1BwGA" name="pkg_loadCheck" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_4kJAkKgxEe2m09Qfg1BwGA" name="modelador" guid="_4kJAkKgxEe2m09Qfg1BwGA" presentationName="modelador"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_6JU1sKgxEe2m09Qfg1BwGA" name="checker" guid="_6JU1sKgxEe2m09Qfg1BwGA" presentationName="checker">
+            <presentation xmi:id="-qCkTiOZKf4Tgk6eEz4RwOA" href="uma://-qCkTiOZKf4Tgk6eEz4RwOA#-qCkTiOZKf4Tgk6eEz4RwOA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_72zrMKgxEe2m09Qfg1BwGA" name="cliente" guid="_72zrMKgxEe2m09Qfg1BwGA" presentationName="cliente">
+            <presentation xmi:id="-0EhYnteiaiHzllxVqaGSnQ" href="uma://-0EhYnteiaiHzllxVqaGSnQ#-0EhYnteiaiHzllxVqaGSnQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_V_E0kKgyEe2m09Qfg1BwGA" name="intermediator" guid="_V_E0kKgyEe2m09Qfg1BwGA" presentationName="intermediador">
+            <presentation xmi:id="-j9kD9nyeFT41nOaeg9wb7Q" href="uma://-j9kD9nyeFT41nOaeg9wb7Q#-j9kD9nyeFT41nOaeg9wb7Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vm5jUKgyEe2m09Qfg1BwGA" name="checar_material_disponvel" guid="_vm5jUKgyEe2m09Qfg1BwGA" presentationName="checar material disponível" performedBy="_6JU1sKgxEe2m09Qfg1BwGA">
+            <presentation xmi:id="-5QtXdXwHFBpIgHdB8PXZfQ" href="uma://-5QtXdXwHFBpIgHdB8PXZfQ#-5QtXdXwHFBpIgHdB8PXZfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Obza8KgzEe2m09Qfg1BwGA" name="checar_solicitacoes_existentes" guid="_Obza8KgzEe2m09Qfg1BwGA" presentationName="checar solicitacoes existentes" performedBy="_V_E0kKgyEe2m09Qfg1BwGA">
+            <presentation xmi:id="-j4au7IcyLN56CJFtg0xrhg" href="uma://-j4au7IcyLN56CJFtg0xrhg#-j4au7IcyLN56CJFtg0xrhg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VW5k0KgzEe2m09Qfg1BwGA" name="descrever_requisitos" guid="_VW5k0KgzEe2m09Qfg1BwGA" presentationName="descrever requisitos" performedBy="_72zrMKgxEe2m09Qfg1BwGA" mandatoryInput="_wowXAKg0Ee2m09Qfg1BwGA">
+            <presentation xmi:id="-Lc-MDix7iUaxvlfOmkemQA" href="uma://-Lc-MDix7iUaxvlfOmkemQA#-Lc-MDix7iUaxvlfOmkemQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_isfs8KgzEe2m09Qfg1BwGA" name="imprimir_objeto" guid="_isfs8KgzEe2m09Qfg1BwGA" presentationName="imprimir objeto" performedBy="_6JU1sKgxEe2m09Qfg1BwGA">
+            <presentation xmi:id="-xXZRMDk2s3bfhrBXYH6sTw" href="uma://-xXZRMDk2s3bfhrBXYH6sTw#-xXZRMDk2s3bfhrBXYH6sTw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oyNG8KgzEe2m09Qfg1BwGA" name="modelar_objeto" guid="_oyNG8KgzEe2m09Qfg1BwGA" presentationName="modelar objeto" performedBy="_4kJAkKgxEe2m09Qfg1BwGA" mandatoryInput="_5gLDoKg0Ee2m09Qfg1BwGA">
+            <presentation xmi:id="-oH-inWmBu13X5yg1zDpO8Q" href="uma://-oH-inWmBu13X5yg1zDpO8Q#-oH-inWmBu13X5yg1zDpO8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_sYxlAKgzEe2m09Qfg1BwGA" name="monitorar_impressao" guid="_sYxlAKgzEe2m09Qfg1BwGA" presentationName="monitorar impressao" performedBy="_6JU1sKgxEe2m09Qfg1BwGA">
+            <presentation xmi:id="-tUpTiSDMDvV9sJdZKKFtQA" href="uma://-tUpTiSDMDvV9sJdZKKFtQA#-tUpTiSDMDvV9sJdZKKFtQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vc6rcKgzEe2m09Qfg1BwGA" name="realizar_reuniao_backlog_do_produto" guid="_vc6rcKgzEe2m09Qfg1BwGA" presentationName="realizar reuniao backlog do produto" performedBy="_V_E0kKgyEe2m09Qfg1BwGA" mandatoryInput="_5gLDoKg0Ee2m09Qfg1BwGA">
+            <presentation xmi:id="-RD0-0gPx0bzqEWtimNqsjQ" href="uma://-RD0-0gPx0bzqEWtimNqsjQ#-RD0-0gPx0bzqEWtimNqsjQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1SvPUKgzEe2m09Qfg1BwGA" name="realizar_reuniao_para_revisar_produto_final" guid="_1SvPUKgzEe2m09Qfg1BwGA" presentationName="realizar reuniao para revisar produto final" performedBy="_4kJAkKgxEe2m09Qfg1BwGA" mandatoryInput="_5gLDoKg0Ee2m09Qfg1BwGA">
+            <presentation xmi:id="--s27nphqYtGGg7H9vahQQg" href="uma://--s27nphqYtGGg7H9vahQQg#--s27nphqYtGGg7H9vahQQg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wowXAKg0Ee2m09Qfg1BwGA" name="backlog" guid="_wowXAKg0Ee2m09Qfg1BwGA" presentationName="backlog" briefDescription="É documentado os requisitos do projeto."/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5gLDoKg0Ee2m09Qfg1BwGA" name="design_do_objeto" guid="_5gLDoKg0Ee2m09Qfg1BwGA" presentationName="design do objeto" briefDescription="O arquivo que contém o objeto 3D a ser impresso cria um artefato."/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_h3BvfagxEe2m09Qfg1BwGA" name="CapabilityPatterns" guid="_h3BvfagxEe2m09Qfg1BwGA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_IMB-oKg2Ee2m09Qfg1BwGA" href="uma://_IMB-oKg2Ee2m09Qfg1BwGA#_IMB-oKg2Ee2m09Qfg1BwGA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_WBeEcKg2Ee2m09Qfg1BwGA" href="uma://_WBeEcKg2Ee2m09Qfg1BwGA#_WBeEcKg2Ee2m09Qfg1BwGA"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_h3BvfqgxEe2m09Qfg1BwGA" name="DeliveryProcesses" guid="_h3BvfqgxEe2m09Qfg1BwGA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_h3Bvf6gxEe2m09Qfg1BwGA" name="ProcessContributions" guid="_h3Bvf6gxEe2m09Qfg1BwGA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

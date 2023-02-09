@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qCkTiOZKf4Tgk6eEz4RwOA" name="new_role,_6JU1sKgxEe2m09Qfg1BwGA" guid="-qCkTiOZKf4Tgk6eEz4RwOA" changeDate="2023-02-09T01:33:36.533-0300">
+  <mainDescription>Após receber o arquivo de impressão do objeto 3D, enviado pelo modelador, verifica se há o filamento necessário para&lt;br />&#xD;
+imprimi-lo, coloca-o para impressão e monitora o processo de impressão para que, se a impressora apresentar falhas haja&#xD;
+tempo de corrigi-las.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

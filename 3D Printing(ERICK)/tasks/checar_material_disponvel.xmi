@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5QtXdXwHFBpIgHdB8PXZfQ" name="checar_material_disponvel,_vm5jUKgyEe2m09Qfg1BwGA" guid="-5QtXdXwHFBpIgHdB8PXZfQ" changeDate="2023-02-09T01:35:14.575-0300">
+  <mainDescription>O checker monitora se o filamento disponível para impressão é suficiente para determinada impressão 3D.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

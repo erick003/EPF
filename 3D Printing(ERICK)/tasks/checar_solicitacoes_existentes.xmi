@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j4au7IcyLN56CJFtg0xrhg" name=",_Obza8KgzEe2m09Qfg1BwGA" guid="-j4au7IcyLN56CJFtg0xrhg" changeDate="2023-02-09T01:42:21.147-0300">
+  <mainDescription>O intermediator agrupa as solicitações disponíveis para serem contactadas realizadas.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

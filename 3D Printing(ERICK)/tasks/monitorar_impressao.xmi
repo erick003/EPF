@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tUpTiSDMDvV9sJdZKKFtQA" name=",_sYxlAKgzEe2m09Qfg1BwGA" guid="-tUpTiSDMDvV9sJdZKKFtQA" changeDate="2023-02-09T01:45:12.795-0300">
+  <mainDescription>&amp;nbsp;checker monitora o processo de impressão a fim de precaver possíveis erros de impressão.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

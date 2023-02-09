@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_WC7dAag2Ee2m09Qfg1BwGA" guid="_WC7dAag2Ee2m09Qfg1BwGA">
+    <resourceDescriptors xmi:id="_WC7dAqg2Ee2m09Qfg1BwGA" id="-oC2Nbxq-WSCUYb5IoudkDA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_WBeEcKg2Ee2m09Qfg1BwGA" name="analise" guid="_WBeEcKg2Ee2m09Qfg1BwGA">
+    <methodElementProperty xmi:id="_WBeEcqg2Ee2m09Qfg1BwGA" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_WBeEcag2Ee2m09Qfg1BwGA" name="analise" guid="_WBeEcag2Ee2m09Qfg1BwGA" presentationName="analise">
+      <presentation xmi:id="-oC2Nbxq-WSCUYb5IoudkDA" href="uma://-oC2Nbxq-WSCUYb5IoudkDA#-oC2Nbxq-WSCUYb5IoudkDA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>
